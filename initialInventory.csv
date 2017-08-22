@@ -1,0 +1,15 @@
+product_id,product_name,department_name,retail_price,quantity_instock
+1,"toilet paper","home & bath",1.99,10
+2,swiffer,"home & bath",10.99,20
+3,pencils,office,4.99,25
+4,coffee,grocery,1.99,10
+5,shingles,"building materials",20.99,17
+6,tacos,grocery,1.99,10
+7,"toilet paper","home & bath",1.99,10
+8,soap,"home & bath",1.99,30
+10,"razor blades","home & bath",1.99,10
+11,t-shirt,Apparel,5.99,19
+12,"donkey kong",person,12.99,10
+13,nyquil,pharmacy,9.99,25
+14,"fidget spinner",toys,1.99,90
+15,shelves,"home & bath",1.99,50
